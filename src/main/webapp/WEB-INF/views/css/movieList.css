@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.movieList {
+	width : 1400px;
+	justify-content: center;
+}
+
+.searchForm {
+	padding-left : 100px;
+	padding-right : 100px;
+}
+
+.movieView {
+	text-decoration: none;
+	color: black;
+}
